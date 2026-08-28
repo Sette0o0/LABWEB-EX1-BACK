@@ -1,0 +1,32 @@
+{
+  "name": "labweb-ex1-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sette0o0/LABWEB-EX1-BACK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Sette0o0/LABWEB-EX1-BACK/issues"
+  },
+  "homepage": "https://github.com/Sette0o0/LABWEB-EX1-BACK#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "fastify": "^5.12.1",
+    "mongodb": "^7.6.0",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.12"
+  }
+}
