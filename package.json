@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Sette0o0/LABWEB-EX1-BACK#readme",
   "dependencies": {
+    "@fastify/cors": "^11.3.0",
     "dotenv": "^17.4.2",
     "fastify": "^5.12.1",
     "mongodb": "^7.6.0",
